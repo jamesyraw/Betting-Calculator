@@ -1,0 +1,1 @@
+A simple exponential calculator to calculate the potential winnings of DraftKings double up tournaments. This takes your value A (initial bet amount) and the value B (number of weeks) and runs the equation A * 2 ^ B. Quick and easy, but something to put in my repo as a starting point.
